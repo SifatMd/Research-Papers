@@ -9,4 +9,4 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 | EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks             | [arxiv](https://arxiv.org/abs/1905.11946)    | 5 |
 | Defending Against Neural Fake News           | [Link](http://papers.nips.cc/paper/9106-defending-against-neural-fake-news.pdf) | 9 | 
 | Explaining and Harnessing Adversarial Examples | [arxiv](https://arxiv.org/abs/1412.6572) | 9 | 
-| Towards Evaluating the Robustness of Neural Networks | [arxiv](https://arxiv.org/abs/1608.04644) | 6 |
+| Towards Evaluating the Robustness of Neural Networks | [arxiv](https://arxiv.org/abs/1608.04644) | 9 |
