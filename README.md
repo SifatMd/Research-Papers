@@ -11,4 +11,4 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 | Defending Against Neural Fake News           | [Link](http://papers.nips.cc/paper/9106-defending-against-neural-fake-news.pdf) | 9 | 
 | Explaining and Harnessing Adversarial Examples | [arxiv](https://arxiv.org/abs/1412.6572) | 9 | 
 | Towards Evaluating the Robustness of Neural Networks | [arxiv](https://arxiv.org/abs/1608.04644) | 9 |
-| Robust Physical World Attacks on Deep Learning Visual Classification | [arxiv](https://arxiv.org/abs/1707.08945) | 5 |
+| Robust Physical World Attacks on Deep Learning Visual Classification | [arxiv](https://arxiv.org/abs/1707.08945) | 9 |
