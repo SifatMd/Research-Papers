@@ -14,3 +14,4 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 | Explaining and Harnessing Adversarial Examples | [arxiv](https://arxiv.org/abs/1412.6572) | 10 | 
 | Towards Evaluating the Robustness of Neural Networks | [arxiv](https://arxiv.org/abs/1608.04644) | 10 |
 | Robust Physical World Attacks on Deep Learning Visual Classification | [arxiv](https://arxiv.org/abs/1707.08945) | 10 |
+| Efficient Transformers: A Survey        | [arxiv](https://arxiv.org/abs/2009.06732)   | 1 | 
