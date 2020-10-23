@@ -4,7 +4,7 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 
 | Research Paper Name                                                                  | URL                              | Progress (\*/10) |
 |--------------------------------------------------------------------------------------|----------------------------------|------------------|
-| Attention is All You Need                                                            | [arxiv](https://arxiv.org/abs/1706.03762v5)   | 3   |      
+| Attention is All You Need                                                            | [arxiv](https://arxiv.org/abs/1706.03762v5)   | 10   |      
 | Generative Adversarial Nets                                                          | [arxiv](https://arxiv.org/abs/1406.2661)  | 10       |      
 | Conditional Generative Adversarial Nets                                              | [arxiv](https://arxiv.org/abs/1411.1784)  | 10       |
 | Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks | [arxiv](https://arxiv.org/abs/1511.06434) | 10 | 
