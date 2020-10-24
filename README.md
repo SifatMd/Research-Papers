@@ -5,7 +5,8 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 | Research Paper Name                                                                  | URL                              | Progress (\*/10) |
 |--------------------------------------------------------------------------------------|----------------------------------|------------------|
 | Attention is All You Need                                                            | [arxiv](https://arxiv.org/abs/1706.03762v5)   | 10   |      
-| Generative Adversarial Nets                                                          | [arxiv](https://arxiv.org/abs/1406.2661)  | 10       |      
+| Generative Adversarial Nets                                                          | [arxiv](https://arxiv.org/abs/1406.2661)  | 10       | 
+| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding     | [arxiv](https://arxiv.org/abs/1810.04805) | 7        |
 | Conditional Generative Adversarial Nets                                              | [arxiv](https://arxiv.org/abs/1411.1784)  | 10       |
 | Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks | [arxiv](https://arxiv.org/abs/1511.06434) | 10 | 
 | Jekyll: Attacking Medical Image Diagnostics using Deep Generative Models             | [Link](https://people.cs.vt.edu/vbimal/publications/jekyll-eurosp20.pdf) |      10 |
